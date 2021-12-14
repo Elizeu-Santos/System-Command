@@ -61,7 +61,7 @@ router.post("/login", async (req, res) => {
     // Pesquisar esse usuário no banco pelo email
     const user = await UserModel.findOne({ email });
 
-    console.log(user);
+    //console.log(user);
 
     // Se o usuário não foi encontrado, significa que ele não é cadastrado
     if (!user) {
