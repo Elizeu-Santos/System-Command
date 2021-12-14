@@ -1,6 +1,6 @@
 const { Schema, model } = require("mongoose");
 
-const ProductSchema = new mongoose.Schema({
+const ProductSchema = new Schema({
     name: {
       type: String,
       required: true,
@@ -24,6 +24,10 @@ const ProductSchema = new mongoose.Schema({
     },
   });
 
-const UserModel = model("User", UserSchema);
+const ProductModel = model("Product", ProductSchema);
 
+<<<<<<< HEAD
 module.exports = UserModel;
+=======
+module.exports = ProductModel;
+>>>>>>> d74601b97cd81b125d1e147b6ffdcd283eb48a73
