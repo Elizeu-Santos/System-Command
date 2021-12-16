@@ -16,6 +16,10 @@ const UserSchema = new Schema({
     required: true,
     default: "USER",
   },
+  carrinho: [{
+    id: String,
+    preco: Number,
+  }]
 });
 
 const UserModel = model("User", UserSchema);
