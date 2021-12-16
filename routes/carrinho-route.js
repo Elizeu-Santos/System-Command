@@ -10,6 +10,7 @@ router.post(
       console.error(err);
       return res.status(500).json({ msg: JSON.stringify(err) });
     }
+    
   }
 );
 
@@ -43,6 +44,5 @@ router.get("/carrinho", async (req, res) => {
       res.status(500).json(err);
     }
   });
-});
 
 module.exports = router;
