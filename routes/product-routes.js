@@ -7,9 +7,6 @@ const isAdmin = require("../middlewares/isAdmin");
 
 router.post(
   "/product",
-  isAuthenticated,
-  attachCurrentUser,
-  isAdmin,
   async (req, res) => {
     try {
       const result = await ProductModel.create(req.body);
