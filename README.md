@@ -1,7 +1,7 @@
 <h1>System Command 🍔</h1>
 <h2>Demonstração 🎥</h2>
 <h1>Sobre o Projeto</h1>
-<p>System Command é um aplicativo mobile onde as pessoas realizam seus pratos favoritos sem precisar de ligar para o restaurante. o Desafio foi criar uma aplicação com o front-end e back-end.</p>
+<p>System Command é um aplicativo mobile onde as pessoas realizam seus pratos favoritos sem precisar de ligar para o restaurante. O desafio foi criar uma aplicação com o front-end e back-end.</p>
 <p>Link do <b>Site</b> ➡️ <a href="https://system-command.netlify.app/">System-Command</a></p>
 <p>Link do <b>Repositório Front-end</b> ➡️ <a href="https://github.com/edgarvazevedo/system-command-front">Front-end</a></p>
 
