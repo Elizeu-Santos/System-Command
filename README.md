@@ -1,7 +1,7 @@
 <h1>System Command 🍔</h1>
 <h2>Demonstração 🎥</h2>
 <h1>Sobre o Projeto</h1>
-<p>System Command é um site mobile onde as pessoas realizam seus pratos favoritos sem precisar de ligar para o restaurante.</p>
+<p>System Command através desse site as pessoas pedem seus pratos favoritos sem precisar ligar para o restaurante</p>
 <p>Link do <b>Site</b> ➡️ <a href="https://system-command.netlify.app/">System-Command</a></p>
 <p>Link do <b>Repositório Front-end</b> ➡️ <a href="https://github.com/edgarvazevedo/system-command-front">Front-end</a></p>
 
